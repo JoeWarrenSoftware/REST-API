@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\apiendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.contracts\\responses\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\responses\\moviesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\mapping\\contractmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\mapping\\contractmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.contracts\\responses\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\responses\\movieresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.contracts\\requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\requests\\updatemovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.contracts\\requests\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\requests\\createmovierequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.contracts\\movies.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{309B1331-29C0-44F9-82BA-B40B60B76882}|Movies.Contracts\\Movies.Contracts.csproj|solutionrelative:movies.contracts\\movies.contracts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.application\\movies.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\movies.application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\movies.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\movies.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\repositories\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326DBD5A-5904-4122-903D-92C9B85179D4}|Movies.Application\\Movies.Application.csproj|solutionrelative:movies.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|c:\\source\\publicsoftware\\rest-api\\movies.api\\movies.api\\movies.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4D720D31-121A-41AE-A620-A2CD56A54A5B}|Movies.Api\\Movies.Api.csproj|solutionrelative:movies.api\\movies.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Movies.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Movies.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T22:30:53.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Movies.Api\\appsettings.json",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\appsettings.json",
+              "RelativeToolTip": "Movies.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T22:30:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "RelativeToolTip": "Movies.Contracts\\Requests\\CreateMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:52:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesResponse.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "RelativeToolTip": "Movies.Contracts\\Responses\\MoviesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:24:02.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MovieResponse.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Responses\\MovieResponse.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Responses\\MovieResponse.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Responses\\MovieResponse.cs",
+              "RelativeToolTip": "Movies.Contracts\\Responses\\MovieResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:23:28.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Movies.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T15:02:31.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Models\\Movie.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Models\\Movie.cs",
+              "RelativeToolTip": "Movies.Application\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:43:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Repositories\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\MovieRepository.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Repositories\\MovieRepository.cs",
+              "RelativeToolTip": "Movies.Application\\Repositories\\MovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:42:36.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Movies.Api\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Movies.Api\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:38:08.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Movies.Api\\Program.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Program.cs",
+              "RelativeToolTip": "Movies.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:26:19.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiEndpoints.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\ApiEndpoints.cs",
+              "RelativeDocumentMoniker": "Movies.Api\\ApiEndpoints.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\ApiEndpoints.cs",
+              "RelativeToolTip": "Movies.Api\\ApiEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:46:45.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContractMapping.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Mapping\\ContractMapping.cs",
+              "RelativeDocumentMoniker": "Movies.Api\\Mapping\\ContractMapping.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Mapping\\ContractMapping.cs",
+              "RelativeToolTip": "Movies.Api\\Mapping\\ContractMapping.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:38:42.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Movies.Api",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Movies.Api.csproj",
+              "RelativeDocumentMoniker": "Movies.Api\\Movies.Api.csproj",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Movies.Api.csproj",
+              "RelativeToolTip": "Movies.Api\\Movies.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T13:02:49.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movies.Application",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
+              "RelativeDocumentMoniker": "Movies.Application\\Movies.Application.csproj",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
+              "RelativeToolTip": "Movies.Application\\Movies.Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T13:05:50.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movies.Contracts",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Movies.Contracts.csproj",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Movies.Contracts.csproj",
+              "RelativeToolTip": "Movies.Contracts\\Movies.Contracts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T13:05:57.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateMovieRequest.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "RelativeDocumentMoniker": "Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "RelativeToolTip": "Movies.Contracts\\Requests\\UpdateMovieRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T13:06:34.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Repositories\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Movies.Application\\Repositories\\IMovieRepository.cs",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Repositories\\IMovieRepository.cs",
+              "RelativeToolTip": "Movies.Application\\Repositories\\IMovieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T14:41:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Movies.Api.http",
+              "DocumentMoniker": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Movies.Api.http",
+              "RelativeDocumentMoniker": "Movies.Api\\Movies.Api.http",
+              "ToolTip": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Api\\Movies.Api.http",
+              "RelativeToolTip": "Movies.Api\\Movies.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-30T21:45:40.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

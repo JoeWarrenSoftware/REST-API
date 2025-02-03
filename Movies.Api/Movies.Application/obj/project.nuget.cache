@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjt+C+XZTWU=",
+  "success": true,
+  "projectFilePath": "C:\\Source\\PublicSoftware\\REST-API\\Movies.Api\\Movies.Application\\Movies.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brask\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

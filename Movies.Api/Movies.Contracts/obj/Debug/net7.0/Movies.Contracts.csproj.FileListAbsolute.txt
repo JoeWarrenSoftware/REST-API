@@ -1,0 +1,12 @@
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.deps.json
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.dll
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\bin\Debug\net7.0\Movies.Contracts.pdb
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.AssemblyInfoInputs.cache
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.AssemblyInfo.cs
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.csproj.CoreCompileInputs.cache
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.sourcelink.json
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.dll
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\refint\Movies.Contracts.dll
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\Movies.Contracts.pdb
+C:\Source\PublicSoftware\REST-API\Movies.Api\Movies.Contracts\obj\Debug\net7.0\ref\Movies.Contracts.dll
