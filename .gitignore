@@ -1,0 +1,78 @@
+﻿#-------------------------------------------------------------------------------
+# Ignore Visual Studio, Rider, and other common IDE or Editor specific files
+#-------------------------------------------------------------------------------
+
+# Visual Studio cache files
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider (JetBrains) cache
+.idea/
+*.sln.iml
+
+# Local History (Visual Studio, Rider)
+.localhistory/
+.history/
+
+#-------------------------------------------------------------------------------
+# Ignore build results / generated files
+#-------------------------------------------------------------------------------
+
+# Build directories
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+# Uncomment if you store NuGet packages in a custom folder.
+# **/MyPackages/
+
+# NuGet Symbol Packages
+*.snupkg
+
+# dotnet artifacts
+artifacts/
+
+#-------------------------------------------------------------------------------
+# Ignore debugging / runtime files
+#-------------------------------------------------------------------------------
+
+# Logs, coverage, and other ephemeral output
+*.log
+TestResult*
+*.trx
+coverage/
+reports/
+DumpStack.log*
+*.pid
+*.sln.binlog
+
+#-------------------------------------------------------------------------------
+# Ignore OS-specific files
+#-------------------------------------------------------------------------------
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+#-------------------------------------------------------------------------------
+# Ignore any other user-local configuration
+#-------------------------------------------------------------------------------
+
+# If you use Visual Studio Code, you might want to ignore these too:
+.vscode/
+.vscode/*
+
+# Local config (especially if you store secrets in user-level settings)
+*.secret.json
+*.local.settings.json
+
+#-------------------------------------------------------------------------------
+# End of .gitignore
+#-------------------------------------------------------------------------------
